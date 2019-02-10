@@ -1034,7 +1034,7 @@ define({
   ,"live": {
     exec: function() {
       var data = {
-         url: 'https://www.youtube.com/embed/x9xDXU2WJeY?showinfo=0&amp;autoplay=1'
+         url: 'https://windows93.herokuapp.com/c/files/movies/WINDOWS93%20LIVE%20SHOWREEL.mp4'
         ,icon: '/c/sys/ico32/sound_on.png'
         ,title: 'Windows93™ LIVE BAND'
         ,width: 560
