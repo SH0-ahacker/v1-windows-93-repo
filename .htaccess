@@ -1,2 +1,5 @@
 #Create a custom page for all 404 errors
 ErrorDocument 404 /404.html
+
+# Create a custom page for all 403 errors
+ErrorDocument 403 /403.html
