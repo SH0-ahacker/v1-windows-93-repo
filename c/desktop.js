@@ -141,7 +141,7 @@ define([
 },{
    title: "Virtual PC"
   ,ico:"inception"
-  ,url:"http://windows93.herokuapp.com/index.php" + Date.now()
+  ,url:"https://windows93.herokuapp.com/index.html"
   ,width:"600"
   ,height:"400"
   ,help:"INCEPTION"
