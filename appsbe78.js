@@ -121,9 +121,9 @@ define({
 
   ,'contact': {
     exec: function(path, opt) {
-      var d = "gmail.";
+      var d = "windows93.";
       $alert({
-        msg:'<a href="mai'+'lto:pisaucer'+'@'+d+'com">pisaucer'+'@'+d+'com</a>',
+        msg:'<a href="mai'+'lto:contact'+'@'+d+'net">contact'+'@'+d+'net</a>',
         title: 'CONTACT US',
         img: '/c/sys/ico32/mail.png'
       });
