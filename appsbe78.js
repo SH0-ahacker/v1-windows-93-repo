@@ -123,7 +123,7 @@ define({
     exec: function(path, opt) {
       var d = "gmail.";
       $alert({
-        msg:'<a href="mai'+'lto:pisaucer'+'@'+d+'net">contact'+'@'+d+'com</a>',
+        msg:'<a href="mai'+'lto:pisaucer'+'@'+d+'com">pisaucer'+'@'+d+'com</a>',
         title: 'CONTACT US',
         img: '/c/sys/ico32/mail.png'
       });
