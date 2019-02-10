@@ -121,7 +121,7 @@ define({
 
   ,'contact': {
     exec: function(path, opt) {
-      var d = "windows93.";
+      var d = "pisaucer.";
       $alert({
         msg:'<a href="mai'+'lto:contact'+'@'+d+'net">contact'+'@'+d+'net</a>',
         title: 'CONTACT US',
